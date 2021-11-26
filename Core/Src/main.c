@@ -186,31 +186,31 @@ uint32_t const megalovania_delays[] = { 16, 16, 8, 6, 32, 8, 8, 8, 16, 16, 16,
 		16, 8, 8, 8, 8, 8, 8, 16, 16, 16, 2, 8, 8, 8, 8, 4, 4, 4, 4, 4, 4, 2, 8,
 		8, 8, 8, 2, 1 };
 uint32_t const zelda_melody[] = { N_AS4, 0, 0, N_AS4, N_AS4, N_AS4, N_AS4,
-		N_AS4, 0,
-		N_GS4, N_AS4, 0, 0, N_AS4, N_AS4, N_AS4, N_AS4, N_AS4, 0, N_GS4,
-		N_AS4, 0, 0, N_AS4, N_AS4, N_AS4, N_AS4, N_AS4, N_F3, N_F3, N_F3,
-		N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_AS4, N_F3, N_F3, 0,
-		N_AS4, N_AS4, N_C5, N_D5, N_DS5, N_F5, 0, N_F5, N_F5, N_FS5, N_GS5,
-		N_AS5, 0, N_AS5, N_AS5, N_AS5, N_GS5, N_FS5, N_GS5, 0, N_FS5, N_F5,
-		N_F5, N_DS5, N_DS5, N_F5, N_FS5, N_F5, N_DS5, N_CS5, N_CS5, N_DS5,
-		N_F5, N_DS5, N_CS5, N_C5, N_C5, N_D5, N_E5, N_G5, N_F5, N_F3, N_F3,
-		N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_AS4, N_F3, N_F3, 0,
-		N_AS4, N_AS4, N_C5, N_D5, N_DS5, N_F5, 0, N_F5, N_F5, N_FS5,
-		N_GS5, N_AS5, 0, N_CS6, N_C6, N_A5, 0, N_F5, N_FS5, 0, N_AS5, N_A5,
-		N_F5, 0, N_F5, N_FS5, 0, N_AS5, N_A5, N_F5, 0, N_D5, N_DS5, 0,
-		N_FS5, N_F5, N_CS5, 0, N_AS4, N_C5, N_C5, N_D5, N_E5, 0, N_G5, N_F5,
-		N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_AS4,
-		N_F3, N_F3, 0, N_AS4, N_AS4, N_C5, N_D5, N_DS5, N_F5, 0, N_F5, N_F5,
-		N_FS5, N_GS5, N_AS5, 0, N_AS5, N_AS5, N_AS5, N_GS5, N_FS5, N_GS5, 0,
-		N_FS5, N_F5, N_F5, N_DS5, N_DS5, N_F5, N_FS5, N_F5, N_DS5, N_CS5,
-		N_CS5, N_DS5, N_F5, N_DS5, N_CS5, N_C5, N_C5, N_D5, N_E5, N_G5,
-		N_F5, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3,
-		N_AS4, N_F3, N_F3, 0, N_AS4, N_AS4, N_C5, N_D5, N_DS5, N_F5, 0,
-		N_F5, N_F5, N_FS5, N_GS5, N_AS5, 0, N_CS6, N_C6, N_A5, 0, N_F5,
-		N_FS5, 0, N_AS5, N_A5, N_F5, 0, N_F5, N_FS5, 0, N_AS5, N_A5, N_F5, 0,
-		N_D5, N_DS5, 0, N_FS5, N_F5, N_CS5, 0, N_AS4, N_C5, N_C5, N_D5,
-		N_E5, 0, N_G5, N_F5, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3,
-		N_F3, N_F3 };
+N_AS4, 0,
+N_GS4, N_AS4, 0, 0, N_AS4, N_AS4, N_AS4, N_AS4, N_AS4, 0, N_GS4,
+N_AS4, 0, 0, N_AS4, N_AS4, N_AS4, N_AS4, N_AS4, N_F3, N_F3, N_F3,
+N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_AS4, N_F3, N_F3, 0,
+N_AS4, N_AS4, N_C5, N_D5, N_DS5, N_F5, 0, N_F5, N_F5, N_FS5, N_GS5,
+N_AS5, 0, N_AS5, N_AS5, N_AS5, N_GS5, N_FS5, N_GS5, 0, N_FS5, N_F5,
+N_F5, N_DS5, N_DS5, N_F5, N_FS5, N_F5, N_DS5, N_CS5, N_CS5, N_DS5,
+N_F5, N_DS5, N_CS5, N_C5, N_C5, N_D5, N_E5, N_G5, N_F5, N_F3, N_F3,
+N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_AS4, N_F3, N_F3, 0,
+N_AS4, N_AS4, N_C5, N_D5, N_DS5, N_F5, 0, N_F5, N_F5, N_FS5,
+N_GS5, N_AS5, 0, N_CS6, N_C6, N_A5, 0, N_F5, N_FS5, 0, N_AS5, N_A5,
+N_F5, 0, N_F5, N_FS5, 0, N_AS5, N_A5, N_F5, 0, N_D5, N_DS5, 0,
+N_FS5, N_F5, N_CS5, 0, N_AS4, N_C5, N_C5, N_D5, N_E5, 0, N_G5, N_F5,
+N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_AS4,
+N_F3, N_F3, 0, N_AS4, N_AS4, N_C5, N_D5, N_DS5, N_F5, 0, N_F5, N_F5,
+N_FS5, N_GS5, N_AS5, 0, N_AS5, N_AS5, N_AS5, N_GS5, N_FS5, N_GS5, 0,
+N_FS5, N_F5, N_F5, N_DS5, N_DS5, N_F5, N_FS5, N_F5, N_DS5, N_CS5,
+N_CS5, N_DS5, N_F5, N_DS5, N_CS5, N_C5, N_C5, N_D5, N_E5, N_G5,
+N_F5, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3,
+N_AS4, N_F3, N_F3, 0, N_AS4, N_AS4, N_C5, N_D5, N_DS5, N_F5, 0,
+N_F5, N_F5, N_FS5, N_GS5, N_AS5, 0, N_CS6, N_C6, N_A5, 0, N_F5,
+N_FS5, 0, N_AS5, N_A5, N_F5, 0, N_F5, N_FS5, 0, N_AS5, N_A5, N_F5, 0,
+N_D5, N_DS5, 0, N_FS5, N_F5, N_CS5, 0, N_AS4, N_C5, N_C5, N_D5,
+N_E5, 0, N_G5, N_F5, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3, N_F3,
+N_F3, N_F3 };
 uint32_t const zelda_delays[] = { 2, 8, 8, 8, 8, 8, 8, 6, 16, 16, 4, 8, 8, 8, 8,
 		8, 8, 6, 16, 16, 4, 8, 8, 8, 8, 8, 8, 8, 16, 16, 8, 16, 16, 8, 16, 16,
 		8, 8, 4, 4, 6, 16, 16, 16, 16, 16, 16, 2, 8, 8, 8, 8, 8, 2, 8, 8, 8, 8,
@@ -230,7 +230,7 @@ uint32_t user_melody[USER_MELODY_LENGTH];
 uint32_t user_delays[USER_MELODY_LENGTH];
 
 uint32_t const *const melodies[] = { megalovania_melody, zelda_melody, NULL,
-		NULL, user_melody };
+NULL, user_melody };
 uint32_t const *const delays[] = { megalovania_delays, zelda_delays, NULL, NULL,
 		user_delays };
 size_t lengths[] = { sizeof(megalovania_melody) / sizeof(megalovania_melody[0]),
@@ -289,8 +289,11 @@ int main(void) {
 		UpdateButtonState();
 		if (btn_state && !btn_state_prev) {
 			is_test_mode ^= 1;
-			snprintf(print_buf, sizeof(print_buf), "%s\r\n", is_test_mode ? "Testing mode!" : "Music mode!");
-			UART_Transmit((uint8_t*) print_buf);
+			if (is_test_mode) {
+				UART_Transmit((uint8_t*) "Testing mode\r\n");
+			} else {
+				UART_Transmit((uint8_t*) "Returning to previous mode\r\n");
+			}
 		}
 		HAL_GPIO_WritePin(GPIOD, GPIO_PIN_13, is_test_mode);
 		if (is_test_mode) {
@@ -302,11 +305,6 @@ int main(void) {
 			}
 		} else {
 			int key = ReadBuffer();
-			if (key >= 0) {
-				snprintf(print_buf, sizeof(print_buf), "Music mode!\r\n");
-				UART_Transmit((uint8_t*) print_buf);
-			}
-
 			switch (key) {
 			case 1:
 			case 2:
@@ -316,40 +314,66 @@ int main(void) {
 				melody_pos = 0;
 				melody_ts = HAL_GetTick();
 				curr_melody = key - 1;
+				snprintf(print_buf, sizeof(print_buf), "Playing melody %d\r\n",
+						curr_melody + 1);
+				UART_Transmit((uint8_t*) print_buf);
 				state = MS_PLAY;
 				break;
 			case 6:
 				melody_pos = 0;
 				curr_melody = 4;
 				lengths[curr_melody] = 0;
+				snprintf(print_buf, sizeof(print_buf),
+						"Editing user melody\r\n");
+				UART_Transmit((uint8_t*) print_buf);
 				state = MS_EDIT;
 				break;
 			case 7:
+				snprintf(print_buf, sizeof(print_buf),
+						"Going to idle mode\r\n");
+				UART_Transmit((uint8_t*) print_buf);
 				state = MS_IDLE;
 				break;
 			case 8:
+				snprintf(print_buf, sizeof(print_buf),
+						"Printing melody %d notes\r\n", curr_melody + 1);
+				UART_Transmit((uint8_t*) print_buf);
 				for (size_t i = 0; i < lengths[curr_melody]; ++i) {
 					snprintf(print_buf, sizeof(print_buf), "%d ",
-							melodies[curr_melody][i]);
+							(int) melodies[curr_melody][i]);
 					UART_Transmit((uint8_t*) print_buf);
 				}
+				snprintf(print_buf, sizeof(print_buf), "\r\n");
+				UART_Transmit((uint8_t*) print_buf);
+				break;
 			case 9:
+				snprintf(print_buf, sizeof(print_buf),
+						"Adding note %d to melody %d\r\n", (int) N_D3,
+						curr_melody + 1);
+				UART_Transmit((uint8_t*) print_buf);
 				user_melody[lengths[curr_melody]++] = N_D3;
 				break;
 			case 10:
+				snprintf(print_buf, sizeof(print_buf),
+						"Adding note %d to melody %d\r\n", (int) N_D4,
+						curr_melody + 1);
+				UART_Transmit((uint8_t*) print_buf);
 				user_melody[lengths[curr_melody]++] = N_D4;
 				break;
 			case 11:
+				snprintf(print_buf, sizeof(print_buf),
+						"Adding note %d to melody %d\r\n", (int) N_A3,
+						curr_melody + 1);
+				UART_Transmit((uint8_t*) print_buf);
 				user_melody[lengths[curr_melody]++] = N_A3;
 				break;
 			case 12:
+				snprintf(print_buf, sizeof(print_buf),
+						"Adding note %d to melody %d\r\n", (int) N_GS3,
+						curr_melody + 1);
+				UART_Transmit((uint8_t*) print_buf);
 				user_melody[lengths[curr_melody]++] = N_GS3;
 				break;
-			}
-
-			if (key == 9 || key == 10 | key == 11 || key == 12) {
-				snprintf(print_buf, sizeof(print_buf), "New note: %d\r\n", user_melody[lengths[curr_melody] - 1]);
-				UART_Transmit((uint8_t*) print_buf);
 			}
 
 			uint32_t note, delay;
